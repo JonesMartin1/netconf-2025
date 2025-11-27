@@ -25,7 +25,7 @@ Una oportunidad única para aprender, compartir experiencias y conectar con la c
 | **Blazor + Passkeys + Aspire: Desarrollo web en NET 10** | Ing. Jose A. Fernandez | demo | slides | 
 | **Extendiendo las capacidades de la IA con RAG en NET 10** | Ing. Marcos Polischuk [![LinkedIn](./images/icon-linkedin.png)](https://www.linkedin.com/in/marcos-fabian-polischuk/)&nbsp; [![GitHub](./images/icon-github.png)](https://github.com/fernandezja)| [Demo](https://github.com/MPolischuk/smartsupport) | [Slides](https://github.com/MPolischuk/smartsupport/tree/main/resources) |
 | **TUnit y Microsoft.Testing.Platform: La nueva era del testing en NET 10** | Mariano Vivaldo | Demo | Slides | 
-| **Spec-Driven Development (SSD) aplicado a .NET** | Martin Jones | Demo | Slides | 
+| **Spec-Driven Development (SSD) aplicado a .NET** | Martin Jones [![LinkedIn](./images/icon-linkedin.png)](https://www.linkedin.com/in/martin-jones-3479061b0/)&nbsp; [![GitHub](./images/icon-github.png)](https://github.com/fernandezja)| [Demo](https://github.com/JonesMartin1/SDD-blazor-dministradorCotizaciones) | [Slides](https://gamma.app/docs/Presentacion-hecha-por-Martin-Jones-5ohp9xlha3g3s09) |
 | **De la especificación del Prompt a la Acción: Integrando sistemas con MCP** | Santiago Vallejos, Ing. Augusto Portillo | Demo | Slides | 
 | **Multimodalidad con Microsoft.Extensions.AI en NET** | Fernando Luján | Demo | Slides | 
 
